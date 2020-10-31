@@ -1,2 +1,2 @@
 # tell-me-the-weather
-A python web crawiling tool for retrieving weather forecasts
+A python web crawiling tool for retrieving weather forecasts.
