@@ -1,0 +1,5 @@
+TEMPERATURE_KEY = 'temperature'
+TIME_KEY = 'time'
+WEATHER_KEY = 'weather'
+DAY_NUMBER_KEY = 'dd'
+MONTH_NUMBER_KEY = 'mm'
